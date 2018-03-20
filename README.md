@@ -1,2 +1,4 @@
 # OpenStack-Guide
-Useful info and scripts to deploy OpenStack
+This guide will help you deploy a simple OpenStack Enviorment for personal use-case.
+
+Check the Wiki for instructions
